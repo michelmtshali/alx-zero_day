@@ -1,1 +1,2 @@
-# varial if else and while
+project
+ Positive anything is better than negative nothing
